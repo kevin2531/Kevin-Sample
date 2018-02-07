@@ -8,6 +8,7 @@ namespace SAMPLE_WEBSITE
     {
         public void Configuration(IAppBuilder app)
         {
+            //sample
             ConfigureAuth(app);
         }
     }
